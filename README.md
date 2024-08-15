@@ -68,10 +68,16 @@
 
 <li>
 <a href="mailto:ignaciocontreras911@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  ignaciocontreras911-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<li>
+<a href="mailto:https://www.instagram.com/_licuao/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram: _Licuao-E4405F?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
 </ul>
 </div>
 

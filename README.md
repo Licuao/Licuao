@@ -73,7 +73,7 @@
 </li>
 
 <li>
-<a href="mailto:https://www.instagram.com/_licuao/" target="_blank">
+<a href="https://www.instagram.com/_licuao/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram: _Licuao-E4405F?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>

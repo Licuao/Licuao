@@ -1,80 +1,36 @@
+# Ignacio Guacte
 
-<h1 align="center"><b>Hola , Hi , Ciao</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+Automatización y datos con Python, aplicados a logística.
 
-<br>
+- Construyo extracciones desde APIs, reportes automáticos y dashboards para seguir la operación de un centro de distribución.
+- Me interesa que los datos lleguen a tiempo, se puedan verificar y le sirvan a quien los usa.
+- Sigo con desarrollo web para que esos datos se vean bien en el navegador.
+- Y sí, todavía me gustan los gatos.
 
-- I love Cats...
-- Currently learning Web Development
+### Herramientas
 
-<br>
+![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-24292e?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-24292e?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292e?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-24292e?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-24292e?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-24292e?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+### Actividad
 
-<p align="center">
-
-- **Languages**:
-  
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Licuao&show_icons=true&hide_border=true&theme=github_dark&count_private=true">
+    <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Licuao&show_icons=true&hide_border=true&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Licuao&layout=compact&hide_border=true&theme=github_dark">
+    <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licuao&layout=compact&hide_border=true">
+  </picture>
 </p>
 
-<br>
+### Contacto
 
-
-## 
-
-<br>
-
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="mailto:ignaciocontreras911@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  ignaciocontreras911-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-
-<li>
-<a href="https://www.instagram.com/_licuao/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram: _Licuao-E4405F?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-
-</ul>
-</div>
-
-<div align='center'>
-  
-## 
-<b>Cheers✨</b>
-</div>
-<br>
-
+[Correo](mailto:ignaciocontreras911@gmail.com) · [Instagram](https://www.instagram.com/_licuao/)

@@ -27,18 +27,20 @@ CODIGO = (
     "1001011000010001111010100011011101100011101011"
 )
 
+# Paleta de la marca: negros y grises; el color solo marca un tipo de flujo.
 COLORES = {
-    "rack": "#0E4F8C",       # azul de los parantes del rack
-    "parante": "#0A3D6E",
-    "perforacion": "#072C50",
-    "viga": "#F26419",       # naranja de la viga de carga
-    "viga_borde": "#C94E12",
-    "caja": "#C8995F",       # cartón kraft
-    "caja_lado": "#B4864F",
-    "cinta": "#DDB683",
-    "papel": "#FFFFFF",
-    "tinta": "#111111",
-    "laser": "#FF2B2B",
+    "rack": "#0E0F11",       # carbón: fondo
+    "parante": "#1C1E22",    # grafito
+    "perforacion": "#0E0F11",
+    "viga": "#FFB000",       # ámbar = programado: la etiqueta se imprime a su hora
+    "viga_borde": "#C98A00",
+    "caja": "#3A3D43",       # acero
+    "caja_lado": "#2A2D33",
+    "cinta": "#4A4E55",
+    "papel": "#F5F5F2",
+    "tinta": "#0E0F11",
+    "laser": "#FF4D3D",      # rojo = alerta, el láser del escáner
+    "gato": "#D9DBDF",       # niebla, para que se vea sobre el carbón
 }
 
 
@@ -161,12 +163,12 @@ def svg(ultimo: str, total: str, anio: int) -> str:
 </g>
 
 <!-- el gato -->
-<g fill="{c['tinta']}">
+<g fill="{c['gato']}">
   <ellipse cx="1004" cy="196" rx="40" ry="42"/>
   <circle cx="972" cy="148" r="26"/>
   <path d="M952 132 L948 102 L970 124 Z"/>
   <path d="M978 124 L994 102 L996 132 Z"/>
-  <path d="M1038 226 C1076 232 1086 198 1064 176" fill="none" stroke="{c['tinta']}" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1038 226 C1076 232 1086 198 1064 176" fill="none" stroke="{c['gato']}" stroke-width="12" stroke-linecap="round"/>
 </g>
 <circle cx="961" cy="146" r="4" fill="{c['viga']}"/>
 </svg>

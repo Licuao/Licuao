@@ -1,67 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t">
-<title id="t">Etiqueta de despacho de Ignacio Guacte: datos, automatización y apps. Último despacho 31 oct 2026, 135 contribuciones en 2026.</title>
+<title id="t">Etiqueta de despacho de Ignacio Guacte: datos, automatización y apps. Último despacho 31 oct 2026, 136 contribuciones en 2026.</title>
 <style>
-  text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #111111; }
+  text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #0E0F11; }
   .laser { animation: barrido 2.6s ease-in-out infinite alternate; }
   @keyframes barrido { from { transform: translateY(0); } to { transform: translateY(34px); } }
   @media (prefers-reduced-motion: reduce) { .laser { animation: none; opacity: 0; } }
 </style>
 
-<rect width="1200" height="440" fill="#0E4F8C"/>
+<rect width="1200" height="440" fill="#0E0F11"/>
 
 <!-- parantes del rack -->
-<rect x="0" y="0" width="52" height="440" fill="#0A3D6E"/>
-<rect x="1148" y="0" width="52" height="440" fill="#0A3D6E"/>
-<g fill="#072C50"><rect x="20" y="18" width="12" height="20" rx="2"/><rect x="20" y="54" width="12" height="20" rx="2"/><rect x="20" y="90" width="12" height="20" rx="2"/><rect x="20" y="126" width="12" height="20" rx="2"/><rect x="20" y="162" width="12" height="20" rx="2"/><rect x="20" y="198" width="12" height="20" rx="2"/><rect x="20" y="234" width="12" height="20" rx="2"/><rect x="20" y="270" width="12" height="20" rx="2"/><rect x="20" y="306" width="12" height="20" rx="2"/><rect x="20" y="342" width="12" height="20" rx="2"/><rect x="20" y="378" width="12" height="20" rx="2"/><rect x="20" y="414" width="12" height="20" rx="2"/><rect x="1168" y="18" width="12" height="20" rx="2"/><rect x="1168" y="54" width="12" height="20" rx="2"/><rect x="1168" y="90" width="12" height="20" rx="2"/><rect x="1168" y="126" width="12" height="20" rx="2"/><rect x="1168" y="162" width="12" height="20" rx="2"/><rect x="1168" y="198" width="12" height="20" rx="2"/><rect x="1168" y="234" width="12" height="20" rx="2"/><rect x="1168" y="270" width="12" height="20" rx="2"/><rect x="1168" y="306" width="12" height="20" rx="2"/><rect x="1168" y="342" width="12" height="20" rx="2"/><rect x="1168" y="378" width="12" height="20" rx="2"/><rect x="1168" y="414" width="12" height="20" rx="2"/></g>
+<rect x="0" y="0" width="52" height="440" fill="#1C1E22"/>
+<rect x="1148" y="0" width="52" height="440" fill="#1C1E22"/>
+<g fill="#0E0F11"><rect x="20" y="18" width="12" height="20" rx="2"/><rect x="20" y="54" width="12" height="20" rx="2"/><rect x="20" y="90" width="12" height="20" rx="2"/><rect x="20" y="126" width="12" height="20" rx="2"/><rect x="20" y="162" width="12" height="20" rx="2"/><rect x="20" y="198" width="12" height="20" rx="2"/><rect x="20" y="234" width="12" height="20" rx="2"/><rect x="20" y="270" width="12" height="20" rx="2"/><rect x="20" y="306" width="12" height="20" rx="2"/><rect x="20" y="342" width="12" height="20" rx="2"/><rect x="20" y="378" width="12" height="20" rx="2"/><rect x="20" y="414" width="12" height="20" rx="2"/><rect x="1168" y="18" width="12" height="20" rx="2"/><rect x="1168" y="54" width="12" height="20" rx="2"/><rect x="1168" y="90" width="12" height="20" rx="2"/><rect x="1168" y="126" width="12" height="20" rx="2"/><rect x="1168" y="162" width="12" height="20" rx="2"/><rect x="1168" y="198" width="12" height="20" rx="2"/><rect x="1168" y="234" width="12" height="20" rx="2"/><rect x="1168" y="270" width="12" height="20" rx="2"/><rect x="1168" y="306" width="12" height="20" rx="2"/><rect x="1168" y="342" width="12" height="20" rx="2"/><rect x="1168" y="378" width="12" height="20" rx="2"/><rect x="1168" y="414" width="12" height="20" rx="2"/></g>
 
 <!-- viga de carga -->
-<rect x="52" y="372" width="1096" height="40" fill="#F26419"/>
-<rect x="52" y="404" width="1096" height="8" fill="#C94E12"/>
+<rect x="52" y="372" width="1096" height="40" fill="#FFB000"/>
+<rect x="52" y="404" width="1096" height="8" fill="#C98A00"/>
 
 <!-- caja principal -->
-<rect x="84" y="20" width="760" height="352" fill="#C8995F"/>
-<rect x="420" y="20" width="88" height="70" fill="#DDB683"/>
+<rect x="84" y="20" width="760" height="352" fill="#3A3D43"/>
+<rect x="420" y="20" width="88" height="70" fill="#4A4E55"/>
 
 <!-- etiqueta -->
 <g transform="rotate(-1.2 464 202)">
-  <rect x="124" y="56" width="680" height="292" fill="#FFFFFF"/>
+  <rect x="124" y="56" width="680" height="292" fill="#F5F5F2"/>
   <text x="148" y="88" font-size="19">De: Ignacio Guacte · Chile</text>
-  <rect x="744" y="56" width="60" height="48" fill="#111111"/>
-  <text x="774" y="91" font-size="28" font-weight="700" text-anchor="middle" style="fill:#FFFFFF">CL</text>
-  <rect x="124" y="103" width="680" height="4" fill="#111111"/>
+  <rect x="744" y="56" width="60" height="48" fill="#0E0F11"/>
+  <text x="774" y="91" font-size="28" font-weight="700" text-anchor="middle" style="fill:#F5F5F2">CL</text>
+  <rect x="124" y="103" width="680" height="4" fill="#0E0F11"/>
 
   <text x="146" y="164" font-size="56" font-weight="700" letter-spacing="-1.5">Ignacio Guacte</text>
   <text x="148" y="199" font-size="24">Datos, automatización y apps</text>
-  <rect x="124" y="214" width="680" height="4" fill="#111111"/>
+  <rect x="124" y="214" width="680" height="4" fill="#0E0F11"/>
 
   <text x="148" y="240" font-size="17">Contenido</text>
   <text x="148" y="267" font-size="21" font-weight="700">Python · Kotlin · SQL</text>
   <text x="400" y="240" font-size="17">Último despacho</text>
   <text x="400" y="267" font-size="21" font-weight="700">31 oct 2026</text>
   <text x="600" y="240" font-size="17">Contribuciones 2026</text>
-  <text x="600" y="267" font-size="21" font-weight="700">135</text>
-  <rect x="124" y="280" width="680" height="4" fill="#111111"/>
+  <text x="600" y="267" font-size="21" font-weight="700">136</text>
+  <rect x="124" y="280" width="680" height="4" fill="#0E0F11"/>
 
-  <g fill="#111111"><rect x="148.0" y="294" width="4.0" height="38"/><rect x="154.0" y="294" width="2.0" height="38"/><rect x="160.0" y="294" width="2.0" height="38"/><rect x="170.0" y="294" width="2.0" height="38"/><rect x="176.0" y="294" width="4.0" height="38"/><rect x="182.0" y="294" width="2.0" height="38"/><rect x="192.0" y="294" width="2.0" height="38"/><rect x="202.0" y="294" width="4.0" height="38"/><rect x="208.0" y="294" width="2.0" height="38"/><rect x="214.0" y="294" width="2.0" height="38"/><rect x="220.0" y="294" width="8.0" height="38"/><rect x="230.0" y="294" width="2.0" height="38"/><rect x="236.0" y="294" width="2.0" height="38"/><rect x="242.0" y="294" width="4.0" height="38"/><rect x="254.0" y="294" width="2.0" height="38"/><rect x="258.0" y="294" width="2.0" height="38"/><rect x="264.0" y="294" width="8.0" height="38"/><rect x="276.0" y="294" width="2.0" height="38"/><rect x="280.0" y="294" width="2.0" height="38"/><rect x="286.0" y="294" width="2.0" height="38"/><rect x="296.0" y="294" width="4.0" height="38"/><rect x="302.0" y="294" width="2.0" height="38"/><rect x="308.0" y="294" width="4.0" height="38"/><rect x="316.0" y="294" width="6.0" height="38"/><rect x="324.0" y="294" width="2.0" height="38"/><rect x="334.0" y="294" width="2.0" height="38"/><rect x="338.0" y="294" width="4.0" height="38"/><rect x="346.0" y="294" width="2.0" height="38"/><rect x="354.0" y="294" width="8.0" height="38"/><rect x="364.0" y="294" width="2.0" height="38"/><rect x="368.0" y="294" width="8.0" height="38"/><rect x="378.0" y="294" width="6.0" height="38"/><rect x="386.0" y="294" width="2.0" height="38"/><rect x="390.0" y="294" width="2.0" height="38"/><rect x="394.0" y="294" width="6.0" height="38"/><rect x="404.0" y="294" width="4.0" height="38"/><rect x="412.0" y="294" width="2.0" height="38"/><rect x="420.0" y="294" width="4.0" height="38"/><rect x="426.0" y="294" width="6.0" height="38"/><rect x="434.0" y="294" width="2.0" height="38"/><rect x="444.0" y="294" width="4.0" height="38"/><rect x="450.0" y="294" width="2.0" height="38"/><rect x="456.0" y="294" width="2.0" height="38"/><rect x="466.0" y="294" width="2.0" height="38"/><rect x="470.0" y="294" width="4.0" height="38"/><rect x="478.0" y="294" width="2.0" height="38"/><rect x="484.0" y="294" width="8.0" height="38"/><rect x="496.0" y="294" width="2.0" height="38"/><rect x="500.0" y="294" width="2.0" height="38"/><rect x="506.0" y="294" width="2.0" height="38"/><rect x="510.0" y="294" width="4.0" height="38"/><rect x="522.0" y="294" width="2.0" height="38"/><rect x="530.0" y="294" width="8.0" height="38"/><rect x="540.0" y="294" width="2.0" height="38"/><rect x="544.0" y="294" width="2.0" height="38"/><rect x="552.0" y="294" width="4.0" height="38"/><rect x="558.0" y="294" width="6.0" height="38"/><rect x="566.0" y="294" width="4.0" height="38"/><rect x="576.0" y="294" width="6.0" height="38"/><rect x="584.0" y="294" width="2.0" height="38"/><rect x="588.0" y="294" width="4.0" height="38"/></g>
-  <rect class="laser" x="138" y="295" width="466" height="2" fill="#FF2B2B"/>
+  <g fill="#0E0F11"><rect x="148.0" y="294" width="4.0" height="38"/><rect x="154.0" y="294" width="2.0" height="38"/><rect x="160.0" y="294" width="2.0" height="38"/><rect x="170.0" y="294" width="2.0" height="38"/><rect x="176.0" y="294" width="4.0" height="38"/><rect x="182.0" y="294" width="2.0" height="38"/><rect x="192.0" y="294" width="2.0" height="38"/><rect x="202.0" y="294" width="4.0" height="38"/><rect x="208.0" y="294" width="2.0" height="38"/><rect x="214.0" y="294" width="2.0" height="38"/><rect x="220.0" y="294" width="8.0" height="38"/><rect x="230.0" y="294" width="2.0" height="38"/><rect x="236.0" y="294" width="2.0" height="38"/><rect x="242.0" y="294" width="4.0" height="38"/><rect x="254.0" y="294" width="2.0" height="38"/><rect x="258.0" y="294" width="2.0" height="38"/><rect x="264.0" y="294" width="8.0" height="38"/><rect x="276.0" y="294" width="2.0" height="38"/><rect x="280.0" y="294" width="2.0" height="38"/><rect x="286.0" y="294" width="2.0" height="38"/><rect x="296.0" y="294" width="4.0" height="38"/><rect x="302.0" y="294" width="2.0" height="38"/><rect x="308.0" y="294" width="4.0" height="38"/><rect x="316.0" y="294" width="6.0" height="38"/><rect x="324.0" y="294" width="2.0" height="38"/><rect x="334.0" y="294" width="2.0" height="38"/><rect x="338.0" y="294" width="4.0" height="38"/><rect x="346.0" y="294" width="2.0" height="38"/><rect x="354.0" y="294" width="8.0" height="38"/><rect x="364.0" y="294" width="2.0" height="38"/><rect x="368.0" y="294" width="8.0" height="38"/><rect x="378.0" y="294" width="6.0" height="38"/><rect x="386.0" y="294" width="2.0" height="38"/><rect x="390.0" y="294" width="2.0" height="38"/><rect x="394.0" y="294" width="6.0" height="38"/><rect x="404.0" y="294" width="4.0" height="38"/><rect x="412.0" y="294" width="2.0" height="38"/><rect x="420.0" y="294" width="4.0" height="38"/><rect x="426.0" y="294" width="6.0" height="38"/><rect x="434.0" y="294" width="2.0" height="38"/><rect x="444.0" y="294" width="4.0" height="38"/><rect x="450.0" y="294" width="2.0" height="38"/><rect x="456.0" y="294" width="2.0" height="38"/><rect x="466.0" y="294" width="2.0" height="38"/><rect x="470.0" y="294" width="4.0" height="38"/><rect x="478.0" y="294" width="2.0" height="38"/><rect x="484.0" y="294" width="8.0" height="38"/><rect x="496.0" y="294" width="2.0" height="38"/><rect x="500.0" y="294" width="2.0" height="38"/><rect x="506.0" y="294" width="2.0" height="38"/><rect x="510.0" y="294" width="4.0" height="38"/><rect x="522.0" y="294" width="2.0" height="38"/><rect x="530.0" y="294" width="8.0" height="38"/><rect x="540.0" y="294" width="2.0" height="38"/><rect x="544.0" y="294" width="2.0" height="38"/><rect x="552.0" y="294" width="4.0" height="38"/><rect x="558.0" y="294" width="6.0" height="38"/><rect x="566.0" y="294" width="4.0" height="38"/><rect x="576.0" y="294" width="6.0" height="38"/><rect x="584.0" y="294" width="2.0" height="38"/><rect x="588.0" y="294" width="4.0" height="38"/></g>
+  <rect class="laser" x="138" y="295" width="466" height="2" fill="#FF4D3D"/>
   <text x="620" y="320" font-size="19" font-weight="700">github.com/Licuao</text>
 </g>
 
 <!-- caja chica con este lado arriba -->
-<rect x="892" y="236" width="200" height="136" fill="#B4864F"/>
-<g fill="#111111">
+<rect x="892" y="236" width="200" height="136" fill="#2A2D33"/>
+<g fill="#0E0F11">
   <path d="M928 312 L942 290 L956 312 Z"/><rect x="938" y="311" width="8" height="22"/>
   <path d="M964 312 L978 290 L992 312 Z"/><rect x="974" y="311" width="8" height="22"/>
   <rect x="924" y="340" width="72" height="5"/>
 </g>
 
 <!-- el gato -->
-<g fill="#111111">
+<g fill="#D9DBDF">
   <ellipse cx="1004" cy="196" rx="40" ry="42"/>
   <circle cx="972" cy="148" r="26"/>
   <path d="M952 132 L948 102 L970 124 Z"/>
   <path d="M978 124 L994 102 L996 132 Z"/>
-  <path d="M1038 226 C1076 232 1086 198 1064 176" fill="none" stroke="#111111" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1038 226 C1076 232 1086 198 1064 176" fill="none" stroke="#D9DBDF" stroke-width="12" stroke-linecap="round"/>
 </g>
-<circle cx="961" cy="146" r="4" fill="#F26419"/>
+<circle cx="961" cy="146" r="4" fill="#FFB000"/>
 </svg>

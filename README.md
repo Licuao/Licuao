@@ -26,3 +26,5 @@ Me importa que los datos lleguen a tiempo, se puedan verificar y le sirvan a qui
 ### Contacto
 
 [![Correo](https://img.shields.io/badge/ignacioguacte@gmail.com-F26419?style=flat-square&logo=gmail&logoColor=white)](mailto:ignacioguacte@gmail.com)
+
+<sub>La etiqueta de arriba se imprime sola: una GitHub Action corre <a href="scripts/etiqueta.py">este script</a> todos los días y actualiza el último despacho y las contribuciones del año.</sub>

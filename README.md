@@ -1,36 +1,28 @@
-# Ignacio Guacte
+<img src="etiqueta.svg" width="100%" alt="Etiqueta de despacho de Ignacio Guacte: datos, automatización y apps">
 
-Automatización y datos con Python, aplicados a logística.
+Ingeniero informático y analista en logística. Construyo las herramientas que me faltan: automatizaciones, reportes y apps que ahorran horas de trabajo manual.
 
-- Construyo extracciones desde APIs, reportes automáticos y dashboards para seguir la operación de un centro de distribución.
-- Me interesa que los datos lleguen a tiempo, se puedan verificar y le sirvan a quien los usa.
-- Sigo con desarrollo web para que esos datos se vean bien en el navegador.
-- Y sí, todavía me gustan los gatos.
+- **Datos y automatización:** extracciones desde APIs, limpieza de datos y reportes automáticos con Python.
+- **Dashboards** para seguir la operación de un centro de distribución en el día a día.
+- **Apps web y móviles:** sistemas con Flask y apps Android con Kotlin.
+- **IA aplicada:** visión por computador y agentes que solo dan por cierto lo que comprobaron.
+
+Me importa que los datos lleguen a tiempo, se puedan verificar y le sirvan a quien los usa. Y sí, todavía me gustan los gatos.
 
 ### Herramientas
 
-![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-24292e?style=flat-square&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-24292e?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292e?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-24292e?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-24292e?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-24292e?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### Actividad
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Licuao&show_icons=true&hide_border=true&theme=github_dark&count_private=true">
-    <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Licuao&show_icons=true&hide_border=true&count_private=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Licuao&layout=compact&hide_border=true&theme=github_dark">
-    <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licuao&layout=compact&hide_border=true">
-  </picture>
-</p>
+![Python](https://img.shields.io/badge/Python-0E4F8C?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-0E4F8C?style=flat-square&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0E4F8C?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0E4F8C?style=flat-square&logo=sqlite&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0E4F8C?style=flat-square&logo=tensorflow&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0E4F8C?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0E4F8C?style=flat-square&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0E4F8C?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0E4F8C?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0E4F8C?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0E4F8C?style=flat-square&logo=git&logoColor=white)
 
 ### Contacto
 
-[Correo](mailto:ignaciocontreras911@gmail.com) · [Instagram](https://www.instagram.com/_licuao/)
+[![Correo](https://img.shields.io/badge/ignacioguacte@gmail.com-F26419?style=flat-square&logo=gmail&logoColor=white)](mailto:ignacioguacte@gmail.com)

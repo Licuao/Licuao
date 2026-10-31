@@ -2,9 +2,9 @@
 
 Ingeniero informático y analista en logística. Construyo las herramientas que me faltan: automatizaciones, reportes y apps que ahorran horas de trabajo manual.
 
-- **Datos y automatización:** extracciones desde APIs, limpieza de datos y reportes automáticos con Python.
-- **Dashboards** para seguir la operación de un centro de distribución en el día a día.
-- **Apps web y móviles:** sistemas con Flask y apps Android con Kotlin.
+- **Datos y automatización:** extracción incremental desde APIs, procesos orquestados con Prefect y reportes que llegan solos por correo.
+- **Dashboards en vivo** para seguir la operación de un centro de distribución minuto a minuto.
+- **Herramientas para la operación:** webs para pistolas de escaneo, apps de escritorio y apps Android con Kotlin.
 - **IA aplicada:** visión por computador y agentes que solo dan por cierto lo que comprobaron.
 
 Me importa que los datos lleguen a tiempo, se puedan verificar y le sirvan a quien los usa. Y sí, todavía me gustan los gatos.
@@ -15,6 +15,7 @@ Me importa que los datos lleguen a tiempo, se puedan verificar y le sirvan a qui
 ![pandas](https://img.shields.io/badge/pandas-0E4F8C?style=flat-square&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0E4F8C?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0E4F8C?style=flat-square&logo=sqlite&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-0E4F8C?style=flat-square&logo=prefect&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0E4F8C?style=flat-square&logo=tensorflow&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0E4F8C?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-0E4F8C?style=flat-square&logo=android&logoColor=white)

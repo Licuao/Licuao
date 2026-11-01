@@ -166,11 +166,12 @@ def svg(ultimo: str, total: str, anio: int) -> str:
 <g fill="{c['gato']}">
   <ellipse cx="1004" cy="196" rx="40" ry="42"/>
   <circle cx="972" cy="148" r="26"/>
-  <path d="M952 132 L948 102 L970 124 Z"/>
-  <path d="M978 124 L994 102 L996 132 Z"/>
+  <path d="M950 136 L953 103 L968 123 Z"/>
+  <path d="M994 136 L991 103 L976 123 Z"/>
   <path d="M1038 226 C1076 232 1086 198 1064 176" fill="none" stroke="{c['gato']}" stroke-width="12" stroke-linecap="round"/>
 </g>
-<circle cx="961" cy="146" r="4" fill="{c['viga']}"/>
+<circle cx="962" cy="147" r="3.6" fill="{c['viga']}"/>
+<circle cx="982" cy="147" r="3.6" fill="{c['viga']}"/>
 </svg>
 """
 
